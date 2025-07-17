@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "/Users/youneselbadadi/Desktop/WorkSpaceVisualStudio/WeatherApp/lib/gson-2.13.1.jar"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch WeatherApp",
+      "request": "launch",
+      "mainClass": "WeatherApp",
+      "cwd": "${workspaceFolder}",
+      "vmArgs": "-cp bin:lib/gson-2.10.1.jar"
+    }
+  ]
+}
