@@ -8,6 +8,7 @@ This project was created as part of my personal portfolio to showcase skills in 
 ## 📸 Screenshot
 <img width="449" height="347" alt="Captura de pantalla 2025-07-17 a las 11 28 26" src="https://github.com/user-attachments/assets/9a0bf523-1e43-42f9-ba9b-d07808c6d262" />
 ---
+
 ## ✨ Key Features
 
 * **Search by City:** Enter any city name to get its weather data.
