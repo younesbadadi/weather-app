@@ -1,18 +1,30 @@
-## Getting Started
+# Java Weather App 🌤️
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple and clean desktop application developed in Java using the Swing library. It allows users to check the current weather for any city in the world by fetching real-time data from the OpenWeatherMap API.
 
-## Folder Structure
+This project was created as part of my personal portfolio to showcase skills in Java desktop development, consuming REST APIs, and handling JSON data.
 
-The workspace contains two folders by default, where:
+---
+## 📸 Screenshot
+<img width="449" height="347" alt="Captura de pantalla 2025-07-17 a las 11 28 26" src="https://github.com/user-attachments/assets/9a0bf523-1e43-42f9-ba9b-d07808c6d262" />
+---
+## ✨ Key Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* **Search by City:** Enter any city name to get its weather data.
+* **Real-Time Data:** Displays up-to-date information on:
+    * Current temperature.
+    * "Feels like" temperature.
+    * Humidity.
+    * A textual description of the weather (e.g., "scattered clouds").
+* **Simple GUI:** Built with Java Swing for a straightforward and functional user experience.
+* **Error Handling:** Notifies the user if the city is not found or if there's a connection issue.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
+## 🛠️ Tech Stack
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* **Language:** Java 11 (or higher).
+* **GUI Framework:** Java Swing.
+* **JSON Parsing:** Google's [Gson](https://github.com/google/gson) library.
+* **External API:** [OpenWeatherMap API](https://openweathermap.org/api) for weather data.
+* **IDE:** Visual Studio Code.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
